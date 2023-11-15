@@ -1,0 +1,7 @@
+1.matplotlib.pyplot as plt
+2.numpy as np
+3.pandas as pd
+4.seaborn as sns:
+Seaborn is a library for making statistical graphics in Python.
+It builds on top of matplotlib and integrates closely with pandas data structures
+It provides a high-level interface for drawing attractive and informative statistical graphics.
